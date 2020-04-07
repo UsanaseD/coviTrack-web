@@ -1,0 +1,11 @@
+.footer{
+    background-color: #e94444;
+    height: 9vh;
+    color: white;
+    font-size: .85rem;
+}
+@media (max-width: 768px){
+    .footer p{
+       font-size: 0.6rem;
+    }
+}

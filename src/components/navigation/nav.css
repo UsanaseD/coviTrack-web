@@ -1,0 +1,35 @@
+.nav-background{
+    background-color: #e94444;
+    position: fixed;
+    width: 100%;
+    min-height: 50px;
+    z-index: 1000;
+}
+.orange-color{
+    color: #e94444;
+}
+.nav-color{
+    color: white !important;
+    font-size: .9rem;
+    transition: all .5s ease-in-out;
+}
+.logo{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white !important;
+}
+.active{
+    font-weight: bold !important;
+    color: #000000 !important;
+}
+.nav-color:hover{
+    font-weight: bold;
+}
+.flag-toggler {
+    background: transparent !important;
+    border: none !important;
+    font-size: 14px;
+}
+.flag-toggler:focus {
+    box-shadow: none !important;
+}

@@ -1,0 +1,38 @@
+.card-contant{
+    min-height: 43vh;
+    box-shadow: -1px 0 5px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+.container-card-content{
+    display: grid;
+    grid-template-columns: 50% 20% 30%;
+}
+.container-card-content div p{
+    font-size: 1rem;
+    margin-bottom: 2px;
+    line-height: 36px;
+}
+.line{
+    border: .5px solid #c5c5c5;
+    margin-top: 10px;
+    width: 90%;
+    margin-left: 5%;
+}
+.container-icon{
+    margin-top: 5px;
+    color: #e94444;
+}
+
+.country-flag{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+a.custom-link {
+  color: #e94444 !important;
+  cursor: pointer;
+}
+a.custom-link:hover {
+    text-decoration: none;
+}

@@ -1,0 +1,10 @@
+.container-card{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 3%;
+}
+.loader {
+	position: absolute;
+	top: 120vh;
+	margin-left: 40%;
+}

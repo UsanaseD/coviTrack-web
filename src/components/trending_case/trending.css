@@ -1,0 +1,26 @@
+.tranding-container{
+    height: 51px;
+}
+.trending-left{
+    background-color: #e94444;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.trending-right{
+    background-color: #e0e0e0;
+    padding-left: 8%;
+    padding-top: 10px;
+}
+.trending-right input{
+    border-radius: 20px;
+    padding: 5px 0px 5px  25px;
+    border: none;
+    outline: none;
+    width: 92%;
+}
+.main-search{
+    border-radius: 20px;
+    background-color: white;
+}
